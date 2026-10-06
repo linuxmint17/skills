@@ -1,0 +1,5 @@
+interface:
+  display_name: "Save Session"
+  short_description: "保存会话关键信息"
+policy:
+  allow_implicit_invocation: false
