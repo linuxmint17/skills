@@ -1,0 +1,5 @@
+interface:
+  display_name: "MyTeach"
+  short_description: "Learn a concept in a guided workspace (local rules: no unverified commands, evidence over memory)"
+policy:
+  allow_implicit_invocation: false
